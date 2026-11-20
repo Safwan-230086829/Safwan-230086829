@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Safwan-230086829
 - 👀 I’m interested in Electictonics, Gaming, Tech
 - 🌱 I’m currently learning electrical and electronic engneering 
-- 📫 How to reach me though my website https://safwan-230086829.github.io/my-website/
+- 📫 How to reach me though my website https://safwan-230086829.github.io
 - ⚡ Fun fact: I like Playing diffrent types of Games
 
 <!---
